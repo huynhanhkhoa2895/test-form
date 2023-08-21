@@ -1,0 +1,32 @@
+[
+  {
+    "type": "checkbox",
+    "label": "Online service",
+    "name": "service",
+    "placeholder": "Access to multiplayer games",
+    "value": {
+      "mo": 1,
+      "yr": 10
+    }
+  },
+  {
+    "type": "checkbox",
+    "label": "Larger storage",
+    "name": "storage",
+    "placeholder": "Extra 1TB of cloud save",
+    "value": {
+      "mo": 2,
+      "yr": 20
+    }
+  },
+  {
+    "type": "checkbox",
+    "label": "Customizable Profile",
+    "name": "profile",
+    "placeholder": "Custom theme on your profile",
+    "value": {
+      "mo": 2,
+      "yr": 20
+    }
+  }
+]

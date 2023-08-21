@@ -1,0 +1,31 @@
+[
+  {
+    "type": "text",
+    "label": "Name",
+    "name": "name",
+    "placeholder": "e.g. Stephen King",
+    "validate": [
+      "required"
+    ]
+  },
+  {
+    "type": "email",
+    "label": "Email Address",
+    "name": "email",
+    "placeholder": "e.g. stephenking@lorem.com",
+    "validate": [
+      "required",
+      "email"
+    ]
+  },
+  {
+    "type": "text",
+    "label": "Phone Number",
+    "name": "phone",
+    "placeholder": "e.g. +1 234 567 890",
+    "validate": [
+      "required",
+      "phone"
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "type": "radio",
+    "label": "",
+    "name": "plan",
+    "options": [
+      {
+        "label": "Arcade",
+        "name": "arcade",
+        "placeholder": "2 months free",
+        "value": {
+          "mo": 9,
+          "yr": 90
+        }
+      },
+      {
+        "label": "Advanced",
+        "name": "advanced",
+        "placeholder": "2 months free",
+        "value": {
+          "mo": 12,
+          "yr": 120
+        }
+      },
+      {
+        "label": "Pro",
+        "name": "pro",
+        "placeholder": "2 months free",
+        "value": {
+          "mo": 15,
+          "yr": 150
+        }
+      }
+    ]
+  }
+]
